@@ -1,0 +1,41 @@
+{
+    "989370498": {
+        "level": 3,
+        "invited": [
+            "5268822989",
+            "141587662"
+        ],
+        "completed_lessons": [
+            "урок1"
+        ],
+        "referral_name": "lotossoks"
+    },
+    "5268822989": {
+        "level": 1,
+        "invited": [],
+        "completed_lessons": [],
+        "referral_name": "olga_georginova"
+    },
+    "141587662": {
+        "level": 1,
+        "invited": [],
+        "completed_lessons": [
+            "урок1"
+        ],
+        "referral_name": "batch2k"
+    },
+    "1347182356": {
+        "level": 1,
+        "invited": [],
+        "completed_lessons": [
+            "урок1"
+        ],
+        "referral_name": "timcorre"
+    },
+    "1347008807": {
+        "level": 1,
+        "invited": [],
+        "completed_lessons": [],
+        "referral_name": "omixyy"
+    }
+}
